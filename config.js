@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Bé à!',
     introDesc: `Làm sao cắt nghĩa được tình yêu,
-    Có nghĩa gì đâu một buổi chiều
+    Có nghĩa gì đâu một buổi chiều.
     Nó chiếm hồn ta bằng nắng nhạt,
     Bằng mây nhè nhẹ, gió hiu hiu `,
     btnIntro: '♥♥♥♥♥',
